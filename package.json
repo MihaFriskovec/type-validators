@@ -1,0 +1,35 @@
+{
+  "name": "type-validators",
+  "version": "1.0.0",
+  "description": "Simple and better javascript type validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MihaFriskovec/type-validators.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "JS",
+    "typeof",
+    "type",
+    "validation",
+    "type",
+    "validation",
+    "type",
+    "validator",
+    "type",
+    "checker",
+    "check",
+    "check",
+    "type"
+  ],
+  "author": "Miha Friškovec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MihaFriskovec/type-validators/issues"
+  },
+  "homepage": "https://github.com/MihaFriskovec/type-validators#readme"
+}
